@@ -1,5 +1,3 @@
 ### Project Overview
 
- Preparatory program for my Data Science course with Grey Atom.
-
-
+Project 1 of my preparatory program for my Data Science course with Grey Atom.
